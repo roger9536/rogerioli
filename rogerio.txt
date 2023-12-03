@@ -1,0 +1,73 @@
+ #EXTM3U
+ #EXTINF:-1
+
+ https://s.m3u9.top/a2/hls1/amc/__index.m3u8?mu3zAQc9HC3GbwJq=Hsal54KlDJqT9_5nOu4_fA&3U1G7qaTxrPbalZnEx=1701669014
+ #EXTINF:-2
+ https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
+ #EXTINF:-3
+ https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w943039295.m3u8
+ #EXTINF:-4
+ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+ #EXTINF:-5
+ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w141391189.m3u8
+ #EXTINF:-6
+ https://s.m3u9.top/a2/hls1/cinecanal/__index.m3u8?mu3zAQc9HC3GbwJq=r0UXqyqqQ3uGeUb6WvYkRA&3U1G7qaTxrPbalZnEx=1701669434
+ #EXTINF:-7
+ https://s.m3u9.top/a2/hls1/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=AwBuH_GwSkNIav6WK-eiYw&3U1G7qaTxrPbalZnEx=1701669594
+ #EXTINF:-8
+ https://s.m3u9.top/a2/hls1/fx/__index.m3u8?mu3zAQc9HC3GbwJq=gFZzRYShJ3pZW7-_iR3JmQ&3U1G7qaTxrPbalZnEx=1701669654
+ #EXTINF:-9
+ https://s.m3u9.top/a2/hls1/axn/__index.m3u8?mu3zAQc9HC3GbwJq=cmJTmDjB25BTOIPZDsTEwA&3U1G7qaTxrPbalZnEx=1701669722
+ #EXTINF:-10
+ https://s.m3u9.top/a2/hls1/megapix/__index.m3u8?mu3zAQc9HC3GbwJq=jnDPrwb84yE01VLfw5nmVw&3U1G7qaTxrPbalZnEx=1701669785
+ #EXTINF:-11
+ https://s.m3u9.top/a2/hls1/paramount/__index.m3u8?mu3zAQc9HC3GbwJq=FT2qWbPZXLjLdwd7D4J2cw&3U1G7qaTxrPbalZnEx=1701669839
+ #EXTINF:-12
+ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1773073702.m3u8
+ #EXTINF:-13
+ https://s.m3u9.top/a2/hls1/foxsports2/__index.m3u8?mu3zAQc9HC3GbwJq=CQk_Eb9KI5bwrepjyZq4mA&3U1G7qaTxrPbalZnEx=1701669965
+ #EXTINF:-14 
+ https://s.m3u9.top/a2/hls1/tcm/__index.m3u8?mu3zAQc9HC3GbwJq=_6PgF5GXGLO1AuuuBD4UGg&3U1G7qaTxrPbalZnEx=1701670032
+ #EXTINF:-15
+ https://s.m3u9.top/a2/hls1/sony/__index.m3u8?mu3zAQc9HC3GbwJq=dXNAW5VKOi3faLKM-HiFbQ&3U1G7qaTxrPbalZnEx=1701670098
+ #EXTINF:-16
+ https://s.m3u9.top/a2/hls1/space/__index.m3u8?mu3zAQc9HC3GbwJq=nt4VFQI3m6-Q77MR5pkp-w&3U1G7qaTxrPbalZnEx=1701670150
+ #EXTINF:-17
+ https://s.m3u9.top/a2/hls1/telecinetouch/__index.m3u8?mu3zAQc9HC3GbwJq=pb_gVURmBJW3_kMNBPQg_Q&3U1G7qaTxrPbalZnEx=1701670248
+ #EXTINF:-18
+ https://s.m3u9.top/a2/hls1/universal/__index.m3u8?mu3zAQc9HC3GbwJq=cqvAsIv0hly9eGtXdFEnwQ&3U1G7qaTxrPbalZnEx=1701670314
+ #EXTINF:-19
+ https://caikron.com.br:19360/criciuma/criciuma.m3u8
+ #EXTINF:-20
+ https://s.m3u9.top/a2/hls1/cnnbrasil/__index.m3u8?mu3zAQc9HC3GbwJq=7Q3icDFmKRnVxkuO93kQdQ&3U1G7qaTxrPbalZnEx=1701670534
+ #EXTINF:-21
+ https://s.m3u9.top/a2/hls1/bandnews/__index.m3u8?mu3zAQc9HC3GbwJq=rOkDBlMUJpK1w3rd3FX1gA&3U1G7qaTxrPbalZnEx=1701670583
+ #EXTINF:-22
+ https://s.m3u9.top/a2/hls1/globonews/__index.m3u8?mu3zAQc9HC3GbwJq=XZjuH2cY2xvybC7YcQKl3Q&3U1G7qaTxrPbalZnEx=1701670718
+ #EXTINF:-23
+ https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+ #EXTINF:-24
+ https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w1692112557.m3u8
+ #EXTINF:-25
+ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
